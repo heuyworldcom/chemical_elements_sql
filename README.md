@@ -9,5 +9,10 @@ As im falling asleep i came up with an idea on how to get it to convert well. An
 So i wanted to share these .sql files with you all. They contain mySQL statements to create a database (elementary), table (elements),
 and all the INSERT statements too!
 
+### PLEASE NOTE ###
+As this sql's source was from a .csv file the column "density" must of had large numbers in it and so was dumped as, for example, 
+"5.34E-01". Not sure if i'll need that column but if i do then i will update accordingly and share up here
+###################
+
 Have at it!
 
